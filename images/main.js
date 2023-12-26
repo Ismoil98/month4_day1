@@ -230,11 +230,11 @@
 
 
 /* Integer 10 */
-let x = +prompt("sekund=");
-let sekund = x % 60;
-let minut = (x - sekund) / 60;
-let y = minut;
-minut = minut % 60;
-y = y - minut;
-let soat = y / 60;
-console.log(soat + ' soat ' + minut + ' minut ' + sekund + ' sekund');
+// let x = +prompt("sekund=");
+// let sekund = x % 60;
+// let minut = (x - sekund) / 60;
+// let y = minut;
+// minut = minut % 60;
+// y = y - minut;
+// let soat = y / 60;
+// console.log(soat + ' soat ' + minut + ' minut ' + sekund + ' sekund');
